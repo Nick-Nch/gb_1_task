@@ -12,8 +12,3 @@ if (gain > cost):
     people = int(input('Введите количество сотрудников: '))
     print('Выручка на человека: ' + str(difference / people))
 
-# if (gain > cost):
-#     # print(int(difference) / int(people))
-#     print('Выручка на человека: ' + str(difference / people))
-# elif :
-#     break
