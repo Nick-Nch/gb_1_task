@@ -9,10 +9,3 @@ print(answer)
 
 
 
-#
-# text = (input('Введите число: '))
-# a = text
-# b = a + a
-# c = a + a + a
-# answer = int(a + b + c)
-# print(answer)
